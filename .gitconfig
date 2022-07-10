@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = trunk
+[user]
+	email = hello@quinnlane.dev
+	name = Quinn Lane
+	signingKey = 58724C418F5A313F4ECC84B18D213A334430F2FB
+[credential]
+	helper = store
